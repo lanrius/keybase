@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am lanrius on github.
+  * I am nezerlan (https://keybase.io/nezerlan) on keybase.
+  * I have a public key ASCWdwH4ozTWMpPQs9bZrOrR0rDzlF3975il5OmNzI5qFwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120967701f8a334d63293d0b3d6d9acead1d2b0f3945dfdef98a5e4e98dcc8e6a170a",
+      "host": "keybase.io",
+      "kid": "0120967701f8a334d63293d0b3d6d9acead1d2b0f3945dfdef98a5e4e98dcc8e6a170a",
+      "uid": "47dd55dba862c1efbe15d850677dad19",
+      "username": "nezerlan"
+    },
+    "merkle_root": {
+      "ctime": 1568209437,
+      "hash": "e589b03606c0a475d96ba8ad458902019ca979167a97ed296ecea912cc387f6dcbbbca213a92b917f6dc1142b6c928fdb204a5b7775e7ad1feeaec94370be593",
+      "hash_meta": "73f5753c978a64b464e1452df79e12bd8a956a955ca6a5dd3f9bfbf905884f72",
+      "seqno": 6718071
+    },
+    "service": {
+      "entropy": "BTFuxKR5hrTYaoErx6uDudq0",
+      "name": "github",
+      "username": "lanrius"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568209744,
+  "expire_in": 504576000,
+  "prev": "185f28b831d6b83a3eb8d578efa1e0ec0cfdfb8a4b23f73750cef4ece1d74829",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASCWdwH4ozTWMpPQs9bZrOrR0rDzlF3975il5OmNzI5qFwo](https://keybase.io/nezerlan), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglncB+KM01jKT0LPW2azq0dKw85Rd/e+YpeTpjcyOahcKp3BheWxvYWTESpcCC8QgGF8ouDHWuDo+uNV476Hg7Az9+4pLI/c3UM707OHXSCnEIGievi88BaV46uFn3e/1bUrPq1fvPWXoKIjzn8ZAxVZOAgHCo3NpZ8RA/wE5DKywUV7GrRwHCwTGG94e58qqq34EgYpA7yE61mXYz6U4/VcL2qCRXjdkjxRrP9kLlpTX5sRmm3nWLeXfCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICziJaj1n7XJ12K3izDVIdTe7ew7k63MiaEpsOBXpOXJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/nezerlan
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id nezerlan
+```
